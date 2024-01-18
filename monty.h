@@ -10,7 +10,7 @@
 
 #define STACK 0
 #define QUEUE 1
-#define DELIMS
+#define DELIMS " \n\t\a\b"
 
 extern char **op_toks;
 
