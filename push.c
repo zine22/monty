@@ -13,7 +13,7 @@ stack_t *tmp, *new;
 int i;
 
 new = malloc(sizeof(stack_t));
-if (new = NULL)
+if (new == NULL)
 {
 set_op_tok_error(malloc_error());
 return;
