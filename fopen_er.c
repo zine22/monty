@@ -8,6 +8,6 @@
 
 int f_open_error(char *filename)
 {
-fprint(stderr, "Error: no open file %s\n", filename);
+fprintf(stderr, "Error: no open file %s\n", filename);
 return (EXIT_FAILURE);
 }
