@@ -7,6 +7,6 @@
 
 int malloc_error(void)
 {
-fprint(stderr, "Error: malloc failed\n");
+fprintf(stderr, "Error: malloc failed\n");
 return (EXIT_FAILURE);
 }

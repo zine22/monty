@@ -6,7 +6,7 @@
 * Return: character ptr
 */
 
-cher *get_int(int num)
+char *get_int(int num)
 {
 unsigned int temp;
 int length = 0;
