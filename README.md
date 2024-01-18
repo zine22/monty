@@ -1,1 +1,1 @@
-this repository is for lifo fifo project 
+new repo for LIFO FIFO project
